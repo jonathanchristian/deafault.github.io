@@ -3,9 +3,6 @@
 
 
 
-# Header 1
-Jonathan Christian
-## Header 2
-0336478
-### Header 3
-Final exam 
+# Jonathan Christian
+## 0336478
+### Final exam 
